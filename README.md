@@ -15,7 +15,7 @@ Here's a list of modules that will be developed:
 
 Firebase Integration.
 
-- [ ] Login.
+- [x] Login.
 - [ ] Push Notifications.
 - [ ] Firebase Crashlytics.
 - [ ] Firestore.
